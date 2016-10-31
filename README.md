@@ -1,1 +1,1 @@
-[[include repo=pdf path=Readme/Readme.pdf]]
+Readme/Readme.pdf
