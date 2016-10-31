@@ -1,1 +1,1 @@
-Readme/Readme.pdf
+https://github.com/xzhang007/KatchAndPop/blob/master/Readme/Readme.pdf
